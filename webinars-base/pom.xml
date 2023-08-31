@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.xuecheng</groupId>
+        <groupId>com.webinars</groupId>
         <artifactId>webinars-parents</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../webinars-parents</relativePath>
@@ -14,7 +14,7 @@
     <name>webinars-base</name>
     <description>webinars-base</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
